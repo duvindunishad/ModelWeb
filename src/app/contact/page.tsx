@@ -120,7 +120,7 @@ const Contact: React.FC = () => {
                 type="submit"
                 className="w-1/3 bg-blue-500 text-white p-3 rounded-full hover:bg-blue-600 transition-colors duration-300"
               >
-                MESSAGE
+                SEND
               </motion.button>
             </form>
           </div>
