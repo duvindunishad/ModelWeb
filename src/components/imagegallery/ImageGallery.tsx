@@ -77,8 +77,8 @@ const ImageGallery = ({ images }: ImageGalleryProps) => {
           currentIndex={currentIndex}
           onClose={closeModal}
           onThumbnailClick={handleThumbnailClick}
-          nextImage={nextImage}
-          prevImage={prevImage}
+          // nextImage={nextImage}
+          // prevImage={prevImage}
         />
       )}
     </div>
